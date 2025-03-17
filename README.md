@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I'm Sanchit Chavan 👋
 
-<!--
-**Sanchit881/Sanchit881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer, always excited to explore new technologies, build innovative projects, and contribute to open-source.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I’m a Full Stack Developer, Python Developer, Web Developer.
+- 🌱 I’m learning full stack development.
+- 🛠️ I enjoy experimenting with SQL,python.
+
+
+## 💼 Skills & Technologies
+
+I have experience with a range of technologies and tools:
+
+### 🌐 Frontend
+- HTML, CSS, JavaScript, React, Vue.js, Bootstrap
+
+### ⚙️ Backend
+- Python, Flask, Django, Node.js, Express.js
+
+### 🗃️ Databases
+- MySQL, PostgreSQL, MongoDB
+
+### 🛠️ Tools & Other Technologies
+- Git, Docker, Kubernetes, Nginx, Jenkins, AWS, Firebase
+
+### 📱 Mobile Development
+- React Native, Flutter
+
+---
+
+### Acknowledgements
+- Thanks to the open-source community for all the inspiration and contributions to this platform.
