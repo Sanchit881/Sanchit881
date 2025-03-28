@@ -20,7 +20,7 @@ I have experience with a range of technologies and tools:
 - Python, Flask, Django, Node.js, Express.js
 
 ### 🗃️ Databases
-- MySQL, PostgreSQL, MongoDB
+- MySQL, MongoDB
 
 ### 🛠️ Tools & Other Technologies
 - Git, Docker, Kubernetes, Nginx, Jenkins, AWS, Firebase
