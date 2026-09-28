@@ -47,22 +47,6 @@ I'm a developer focused on building backend and full-stack applications while st
 - Postman
 - Maven
 
----
-
-## 📌 Featured Projects
-
-### 🎯 Number Guessing Game
-
-A console-based Java project built to practice Core Java and OOP concepts.
-
-**Concepts:**
-Classes & Objects • Constructors • Encapsulation • Methods • Loops • Conditional Statements • Scanner • Random
-
-### 🚧 More Projects Coming Soon
-
-I'm currently building more projects as I progress from **Core Java → Spring Boot → Spring Security → Full-Stack Development**.
-
----
 
 ## 📚 Currently Learning
 
